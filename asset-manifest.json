@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/saketh_mern/static/css/main.f855e6bc.css",
-    "main.js": "/saketh_mern/static/js/main.af9bdeb9.js",
-    "static/js/453.5c46623e.chunk.js": "/saketh_mern/static/js/453.5c46623e.chunk.js",
-    "static/media/logo.svg": "/saketh_mern/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/saketh_mern/static/css/main.aca76472.css",
+    "main.js": "/saketh_mern/static/js/main.4921ae2d.js",
+    "static/js/453.7cc2c848.chunk.js": "/saketh_mern/static/js/453.7cc2c848.chunk.js",
     "index.html": "/saketh_mern/index.html",
-    "main.f855e6bc.css.map": "/saketh_mern/static/css/main.f855e6bc.css.map",
-    "main.af9bdeb9.js.map": "/saketh_mern/static/js/main.af9bdeb9.js.map",
-    "453.5c46623e.chunk.js.map": "/saketh_mern/static/js/453.5c46623e.chunk.js.map"
+    "main.aca76472.css.map": "/saketh_mern/static/css/main.aca76472.css.map",
+    "main.4921ae2d.js.map": "/saketh_mern/static/js/main.4921ae2d.js.map",
+    "453.7cc2c848.chunk.js.map": "/saketh_mern/static/js/453.7cc2c848.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.af9bdeb9.js"
+    "static/css/main.aca76472.css",
+    "static/js/main.4921ae2d.js"
   ]
 }
